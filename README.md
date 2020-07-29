@@ -2,17 +2,17 @@
 
 <p align="center"><img src="https://i.imgur.com/xUhQLtc.png"></img></p> 
 
-### Projeto desenvolvido por: :wrench:
+### :wrench: Projeto desenvolvido por: 
 
 [Gabriela Salvo](https://github.com/Gabrielasalvo/)
 
 [Milene Taborda](https://github.com/milenetaborda)
 
-### Tecnologias usadas:
+### :bulb:	 Tecnologias usadas:
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=react&message=lib&color=blue&style=for-the-badge&logo=REACT"/>
-<img src="https://img.shields.io/static/v1?label=redux&message=library&color=purple&style=for-the-badge&logo=REDUX"/>
+<img src="https://img.shields.io/static/v1?label=redux&message=lib&color=purple&style=for-the-badge&logo=REDUX"/>
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
   </p>
 
@@ -44,6 +44,6 @@
 
 ## Contato 
 
-22 9.9944.0789 :calling: 
+:calling:  22 9.9944.0789 
 
-gabrielamdesalvo@gmail.com :email:
+:email: gabrielamdesalvo@gmail.com 
