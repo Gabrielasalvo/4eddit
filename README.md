@@ -24,7 +24,12 @@
 1. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`)
 
-:boom: :boom: [SITE](capricious-oatmeal.surge.sh)
+
+
+
+:boom: :boom: [LINK SURGE DO SITE](capricious-oatmeal.surge.sh)
+
+
 
  ### Tela de login:
  ___
