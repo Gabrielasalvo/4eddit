@@ -2,11 +2,14 @@
 
 <p align="center"><img src="https://i.imgur.com/xUhQLtc.png"></img></p> 
 
-Projeto desenvolvido por:
+### Projeto desenvolvido por:
+
 [Gabriela Salvo](https://github.com/Gabrielasalvo/)
+
 [Milene Taborda](https://github.com/milenetaborda)
 
 ### Tecnologias usadas:
+
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=react&message=lib&color=blue&style=for-the-badge&logo=REACT"/>
 <img src="https://img.shields.io/static/v1?label=redux&message=library&color=purple&style=for-the-badge&logo=REDUX"/>
@@ -38,3 +41,7 @@ Projeto desenvolvido por:
 ### Tela de posts:
 
 <img src="https://i.imgur.com/9Edtgm2.png">
+
+## Contato 
+22 9.9944.0789 :calling: 
+gabrielamdesalvo@gmail.com :email:
