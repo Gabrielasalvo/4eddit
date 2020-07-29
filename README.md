@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/xUhQLtc.png"></img></p> 
 
-### Projeto desenvolvido por:
+### Projeto desenvolvido por: :wrench:
 
 [Gabriela Salvo](https://github.com/Gabrielasalvo/)
 
@@ -43,5 +43,7 @@
 <img src="https://i.imgur.com/9Edtgm2.png">
 
 ## Contato 
+
 22 9.9944.0789 :calling: 
+
 gabrielamdesalvo@gmail.com :email:
